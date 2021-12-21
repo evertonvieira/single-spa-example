@@ -8,3 +8,7 @@ exemplo de uso do single spa para microfrontends
  - *home*: responsável pela monstagem da homepage inicial do projeto
 
 Obs.: Em todos os componentes foram utilizado os Fremeworks Bootstrap e Angular. 
+
+## Para testar
+
+Rode o script `.start.sh` em todas as pastas dos componentes. Navegue até `http://localhost:9000/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
